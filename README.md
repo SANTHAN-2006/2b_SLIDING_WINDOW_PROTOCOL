@@ -9,7 +9,7 @@
 6. Stop the Program
 ## Program :
 
-## Client.py :
+## Server.py :
 
 ```python
 import socket
@@ -36,7 +36,7 @@ while True:
 
 ![image](https://github.com/user-attachments/assets/ec9d72a2-82a1-4134-983e-a6dcc026644d)
 
-## Server.py :
+## Client.py :
 
 ```python
 import socket
